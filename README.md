@@ -88,9 +88,6 @@ University Project: Software Testing and Quality Assurance
 Framework: Playwright + TypeScript
 
 
-نسخ
-تحرير
-
 
 
 
