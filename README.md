@@ -79,7 +79,8 @@ Firefox
 
 You can add more browsers by editing playwright.config.ts.
 
-🔗 Author : 
+🔗 Author :
+
 Name: Ghaith Abo Hantash
 
 University Project: Software Testing and Quality Assurance
